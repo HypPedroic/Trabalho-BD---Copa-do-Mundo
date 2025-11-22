@@ -1,0 +1,22 @@
+tournament_id,tournament_name,year,start_date,end_date,country_name,winner
+WC-1930,1930 FIFA World Cup,1930,1930-07-13,1930-07-30,Uruguay,Uruguay
+WC-1934,1934 FIFA World Cup,1934,1934-05-27,1934-06-10,Italy,Italy
+WC-1938,1938 FIFA World Cup,1938,1938-06-04,1938-06-19,France,Italy
+WC-1950,1950 FIFA World Cup,1950,1950-06-24,1950-07-16,Brazil,Uruguay
+WC-1954,1954 FIFA World Cup,1954,1954-06-16,1954-07-04,Switzerland,West Germany
+WC-1958,1958 FIFA World Cup,1958,1958-06-08,1958-06-29,Sweden,Brazil
+WC-1962,1962 FIFA World Cup,1962,1962-05-30,1962-07-17,Chile,Brazil
+WC-1966,1966 FIFA World Cup,1966,1966-07-11,1966-07-30,England,England
+WC-1970,1970 FIFA World Cup,1970,1970-05-31,1970-06-21,Mexico,Brazil
+WC-1974,1974 FIFA World Cup,1974,1974-06-13,1974-07-07,West Germany,West Germany
+WC-1978,1978 FIFA World Cup,1978,1978-06-01,1978-06-25,Argentina,Argentina
+WC-1982,1982 FIFA World Cup,1982,1982-06-13,1982-07-11,Spain,Italy
+WC-1986,1986 FIFA World Cup,1986,1986-05-31,1986-06-29,Mexico,Argentina
+WC-1990,1990 FIFA World Cup,1990,1990-06-08,1990-07-08,Italy,West Germany
+WC-1994,1994 FIFA World Cup,1994,1994-06-17,1994-07-17,United States,Brazil
+WC-1998,1998 FIFA World Cup,1998,1998-06-10,1998-07-12,France,France
+WC-2002,2002 FIFA World Cup,2002,2002-05-31,2002-06-30,"Korea, Japan",Brazil
+WC-2006,2006 FIFA World Cup,2006,2006-06-09,2006-07-09,Germany,Italy
+WC-2010,2010 FIFA World Cup,2010,2010-06-11,2010-07-11,South Africa,Spain
+WC-2014,2014 FIFA World Cup,2014,2014-06-12,2014-07-13,Brazil,Germany
+WC-2018,2018 FIFA World Cup,2018,2018-06-14,2018-07-15,Russia,France
